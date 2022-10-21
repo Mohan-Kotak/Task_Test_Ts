@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211646647862",
+    "project_id": "taskneo-52f40",
+    "storage_bucket": "taskneo-52f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211646647862:android:d12bab3d249b60a6249297",
+        "android_client_info": {
+          "package_name": "com.taskneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211646647862-prvgnguumb55ba1cujiojpe0hbn6ssm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzo_fXr_z3wo4xJ4zu22qM4tUpATSXQL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211646647862-prvgnguumb55ba1cujiojpe0hbn6ssm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

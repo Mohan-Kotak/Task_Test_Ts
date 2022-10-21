@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    Object {
+      "height": 1334,
+      "justifyContent": "center",
+      "paddingHorizontal": 10,
+      "width": 750,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "borderColor": "#359934",
+        "borderWidth": 1,
+        "paddingHorizontal": 10,
+        "paddingVertical": 50,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 30,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Login
+      </Text>
+    </View>
+    <TextInput
+      keyboardType="default"
+      onChangeText={[Function]}
+      placeholder="Email"
+      placeholderTextColor="#000000"
+      secureTextEntry={false}
+      style={
+        Object {
+          "borderColor": "#359934",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "height": 50,
+          "marginTop": 10,
+          "opacity": 0.6,
+          "paddingLeft": 20,
+        }
+      }
+    />
+    <TextInput
+      keyboardType="default"
+      onChangeText={[Function]}
+      placeholder="Password"
+      placeholderTextColor="#000000"
+      secureTextEntry={true}
+      style={
+        Object {
+          "borderColor": "#359934",
+          "borderRadius": 10,
+          "borderWidth": 1,
+          "height": 50,
+          "marginTop": 10,
+          "opacity": 0.6,
+          "paddingLeft": 20,
+        }
+      }
+    />
+    <View
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "#359934",
+          "borderRadius": 20,
+          "height": 70,
+          "justifyContent": "center",
+          "marginTop": 10,
+          "opacity": 1,
+          "width": 200,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#ffffff",
+            "fontSize": 22,
+            "textAlign": "center",
+          }
+        }
+      >
+        Login
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;
